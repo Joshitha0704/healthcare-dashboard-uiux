@@ -8,25 +8,18 @@ It focuses on delivering a **modern, accessible, and user-friendly experience** 
 ## 📸 Screenshots
 
 ### Dashboard – Claims & Analytics
-![Dashboard](Client%20Page.png)
 
 ### Patient Onboarding – Step 1: Profile Setup
-![Profile Setup](Page%201.png)
 
 ### Patient Onboarding – Step 2: Personal Information
-![Personal Info](Page%202.png)
 
 ### Patient Onboarding – Step 3: Safety Network
-![Safety Network](Page%203.png)
 
 ### Patient Onboarding – Step 4: Health Guide
-![Health Guide](Page%204.png)
 
 ### Patient Onboarding – Step 5: Medical History
-![Medical History](Page%205.png)
 
 ### Patient Onboarding – Step 6: Insurance & Legal
-![Insurance](Page%206.png)
 
 ---
 
